@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## NS2 Casual
 
-You can use the [editor on GitHub](https://github.com/TheRealNin/ns2-casual/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A collection of changes and mods for Natural Selection 2 with a goal of a more accessible game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It has the following design goals:
 
-### Markdown
+- A player should be able to play at an acceptable level without audio (either due to physical limitations or simply listening to music)
+- Games should be playable with as few as 1 person on each team
+- Important information should be easily accessed and only kept hidden for justifiable gameplay reasons (for example, cloaking)
+- Balance values should be kept as close as possible to vanilla NS2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Mod list
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheRealNin/ns2-casual/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Persistent Minimap Buildings
+- Improved Gorge Spit
