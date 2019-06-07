@@ -32,6 +32,8 @@ It has the following design goals:
 - All friendly structures can be seen through walls at a reasonable distance
 - Middle-click ping has been replaced with a context-sensitive ping system
 - - Holding down middle click will reveal a menu for specific pings
+- - Attack, defend, weapon down, take resnode, take techpoint, need support
+- - Need to come up with a way to ping anywhere on the minimap as a non-commander
 - Alien commander can now order units about just like marine commander
 - Aliens now have a HUD minimap just like marines
 - HUD minimaps now show the same icons as the C minimap
