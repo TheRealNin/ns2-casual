@@ -7,6 +7,7 @@ It has the following design goals:
 - A player should be able to play at an acceptable level without audio (either due to physical limitations or simply listening to music)
 - Games should be playable with as few as 1 person on each team
 - Important information should be easily accessed and only kept hidden for justifiable gameplay reasons (for example, cloaking)
+- Limit frustrations caused by teammates playing sub-optimally
 - Balance values should be kept as close as possible to vanilla NS2
 
 
