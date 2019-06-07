@@ -14,7 +14,14 @@ It has the following design goals:
 ### Mod list
 
 - Persistent Minimap Buildings
+- - Once an enemy building is spotted, it will stay on the minimap after it goes out of sight. When not in sight, the building appears grey.
+- - Commanders can see these buildings as ghostly models
 - Improved Gorge Spit
+- - More consistent spit visualization and a new cinematic that is highlighted in alien vision
+- Alien Melee helper
+- - Enemy entities that would be hit by your melee attack are highlighted red
+- Healing field
+- - Replaces medpacks with a 2 res healing field that regenerates 20 hp/s and lasts 15 seconds. Fields cannot overlap.
 
 ## Other Changes
 
@@ -29,3 +36,6 @@ It has the following design goals:
 - Aliens now have a HUD minimap just like marines
 - HUD minimaps now show the same icons as the C minimap
 - When an enemy player goes outside of LOS, their minimap icon is replaced with a ? instead of disappearing
+- Marine weapon now have unlimited reserve ammo
+- - Marine commander can no longer drop ammo
+- Alien primary attacks no longer take energy
