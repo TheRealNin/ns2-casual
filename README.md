@@ -24,6 +24,8 @@ It has the following design goals:
 - Healing field
 - - Replaces medpacks with a 2 res healing field that regenerates 20 hp/s and lasts 15 seconds. Fields cannot overlap.
 - Rebirth bots
+- Improved Armory GUI
+- - This includes information such as damage numbers, weapon slot, and damage type that vanilla lacks
 
 ## Other Changes
 
