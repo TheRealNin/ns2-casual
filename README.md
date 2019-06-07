@@ -22,6 +22,7 @@ It has the following design goals:
 - - Enemy entities that would be hit by your melee attack are highlighted red
 - Healing field
 - - Replaces medpacks with a 2 res healing field that regenerates 20 hp/s and lasts 15 seconds. Fields cannot overlap.
+- Rebirth bots
 
 ## Other Changes
 
