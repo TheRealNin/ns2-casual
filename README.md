@@ -21,8 +21,8 @@ It has the following design goals:
 - - More consistent spit visualization and a new cinematic that is highlighted in alien vision
 - Alien Melee helper
 - - Enemy entities that would be hit by your melee attack are highlighted red
-- Healing field
-- - Replaces medpacks with a 2 res healing field that regenerates 20 hp/s and lasts 15 seconds. Fields cannot overlap.
+- Personal Packs
+- - Allows marines to pay for their own meds
 - Rebirth bots
 - Improved Armory GUI
 - - This includes information such as damage numbers, weapon slot, and damage type that vanilla lacks
